@@ -12,18 +12,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
-global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
-global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
-global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/ALPHA-OFFICIAL-TEAM'
-global.myweb = 'https://www.youtube.com/c/AchiBrolk'
-global.packname = 'ALPHA WA BOT MD'
-global.author = 'D.U.A.N.FERNANDO '
+global.owner = ['94761905764']
+global.premium = ['94761905764']
+global.ownernomer = '94761905764'
+global.ownername = 'Sadun Mihiranga'
+global.botname = 'SADUWA-BOT-MF'
+global.footer = '© Sandun Mihiranga'
+global.ig = 'https://github.com/Sandun-Mihiranga2'
+global.region = 'Srilanka, Kurunegala, Polpithigama'
+global.sc = 'https://github.com/Sandun-Mihiranga2/DS-BOT-MD'
+global.myweb = 'https://github.com/Sandun-Mihiranga2/'
+global.packname = 'SADUWA WA.MD'
+global.author = 'Sandun Mihiranga'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🚢'
